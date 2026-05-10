@@ -5,7 +5,7 @@ __pycache__/
 dataset/nuga_bank_transactions.csv
 # C extensions
 *.so
-
+.env
 # Distribution / packaging
 .Python
 build/
